@@ -22,9 +22,6 @@ This is a fun little app that teaches you about different Interpolation Algorith
 5. **Export Graph**: Save your graph as a PNG image.
 6. **FAQ Section**: Learn about each algorithm and how to use them effectively.
 
-Absolutely, you can cover most bases by including the following:
-
----
 
 ## Installation
 
