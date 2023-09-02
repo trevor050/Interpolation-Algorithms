@@ -11,7 +11,7 @@
 
 ## Introduction
 
-The Interpolation Algorithms GUI is a Python application built with Tkinter and Matplotlib. It provides an intuitive graphical interface to experiment with various interpolation algorithms. Users can add, remove, and drag points on a graph to see real-time updates of the interpolated curve, represented by different algorithms.
+This is a fun little app that teaches you about different Interpolation Algorithms. If you need to learn about them for any reason then this is a fun and interactive app to do it. Want me too add something more? Create a feature request in issues
 
 ## Features
 
