@@ -40,8 +40,8 @@ This project requires Tkinter, which comes pre-installed with Python for Windows
 sudo apt-get install python-tk
 ```
 
-#### For macOS:
-:
+##$# For macOS:
+
 
 ```bash
 brew install python-tk@3.9
