@@ -46,7 +46,7 @@ sudo apt-get install python-tk
    ```
 2. Navigate to the project directory and install the required packages:
    ```bash
-   cd InterpolationAlgorithmsGUI
+   cd Interpolation-Algorithms
    pip install -r requirements.txt
    ```
 3. Run `main.py` to start the application:
