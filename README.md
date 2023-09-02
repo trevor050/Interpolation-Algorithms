@@ -22,21 +22,50 @@ This is a fun little app that teaches you about different Interpolation Algorith
 5. **Export Graph**: Save your graph as a PNG image.
 6. **FAQ Section**: Learn about each algorithm and how to use them effectively.
 
+Absolutely, you can cover most bases by including the following:
+
+---
+
 ## Installation
 
+### Prerequisites
+
+This project requires Tkinter, which comes pre-installed with Python for Windows and macOS. However, if you're running a custom or minimal Python installation, you may need to install it manually.
+
+#### For Ubuntu:
+
+```bash
+sudo apt-get install python-tk
+```
+
+#### For macOS:
+
+Tkinter comes pre-installed with the standard Python distribution, so you usually don't have to install it separately. If you're using a custom or minimal Python installation, you can install Tkinter using Homebrew:
+
+```bash
+brew install python-tk@3.9
+```
+
+#### For Windows:
+
+Tkinter comes pre-installed with the standard Python installer for Windows, so you generally don't need to install it separately. If needed, you can download it from the official Python website when you install Python.
+
+### Steps
+
 1. Clone the GitHub repository:
-   ```
-   git clone https://github.com/trevor050/Interpolation-Algorithms.git
+   ```bash
+   git clone https://github.com/YourUsername/InterpolationAlgorithmsGUI.git
    ```
 2. Navigate to the project directory and install the required packages:
-   ```
-   cd Interpolation-Algorithms
+   ```bash
+   cd InterpolationAlgorithmsGUI
    pip install -r requirements.txt
    ```
-3. Run `main.py` to start the app:
-   ```
+3. Run `main.py` to start the application:
+   ```bash
    python main.py
    ```
+
 
 ## Usage
 
