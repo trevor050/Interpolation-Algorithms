@@ -194,9 +194,6 @@ def plot_hermite():
     equation_label.config(text=f"Equation: {formatted_equation}")
     return y_range
 
-# Add these functions to your existing code and integrate them into your GUI the same way you did for Lagrange and Cubic Spline.
-
-
 
 def format_equation(poly):
     terms = []
@@ -384,8 +381,7 @@ def main():
     export_button = ttk.Button(button_frame, text="Export Graph", command=export_graph)
     export_button.pack(side=tk.LEFT)
 
-    # Inside your main() function, where you set up your Tkinter widgets
-    faq_button = ttk.Button(button_frame, text="?", width=2.5, command=show_faq)  # ASCII art or image can be used here
+    faq_button = ttk.Button(button_frame, text="?", width=2.5, command=show_faq) 
     faq_button.pack(side=tk.LEFT)
     
     canvas = FigureCanvasTkAgg(fig, master=root)
@@ -395,9 +391,6 @@ def main():
     fig.canvas.mpl_connect('pick_event', on_pick)
     fig.canvas.mpl_connect('motion_notify_event', on_drag)
     fig.canvas.mpl_connect('button_release_event', on_release)
-
-    # Inside your main() function, where you set up your Tkinter widgets
-    
 
     
 
