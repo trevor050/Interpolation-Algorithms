@@ -42,7 +42,7 @@ sudo apt-get install python-tk
 
 1. Clone the GitHub repository:
    ```bash
-   git clone https://github.com/YourUsername/InterpolationAlgorithmsGUI.git
+   git clone https://github.com/Trevor050/Interpolation-Algorithms.git
    ```
 2. Navigate to the project directory and install the required packages:
    ```bash
