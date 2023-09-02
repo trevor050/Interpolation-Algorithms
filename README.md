@@ -32,6 +32,8 @@ Absolutely, you can cover most bases by including the following:
 
 This project requires Tkinter, which comes pre-installed with Python for Windows and macOS. However, if you're running a custom or minimal Python installation, you may need to install it manually.
 
+###If for some reason you don't have Tkinter installed:
+
 #### For Ubuntu:
 
 ```bash
@@ -39,16 +41,14 @@ sudo apt-get install python-tk
 ```
 
 #### For macOS:
-
-Tkinter comes pre-installed with the standard Python distribution, so you usually don't have to install it separately. If you're using a custom or minimal Python installation, you can install Tkinter using Homebrew:
+:
 
 ```bash
 brew install python-tk@3.9
 ```
 
 #### For Windows:
-
-Tkinter comes pre-installed with the standard Python installer for Windows, so you generally don't need to install it separately. If needed, you can download it from the official Python website when you install Python.
+Redownload it from online
 
 ### Steps
 
