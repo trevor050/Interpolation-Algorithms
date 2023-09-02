@@ -1,4 +1,4 @@
-# Interpolation Algorithms GUI
+# Interpolation Algorithms
 
 ## Table of Contents
 1. [Introduction](#introduction)
