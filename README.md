@@ -63,6 +63,20 @@ sudo apt-get install python-tk
 4. **Live Update**: Check or uncheck this box to enable or disable real-time updates as you edit points.
 5. **Export Graph**: Click this button to save the current graph as a PNG image.
 
+## Screenshots
+
+These are three different screenshots using three different interpolation methods on the same graph! (They use different graphing styles too)
+
+### Lagrange Interpolation
+![Lagrange Interpolation](https://github.com/trevor050/Interpolation-Algorithms/blob/main/screenshots/Screenshot%202023-09-02%20at%204.24.40%20PM.png)
+
+### Rational
+![Cubic Spline](https://github.com/trevor050/Interpolation-Algorithms/blob/main/screenshots/Screenshot%202023-09-02%20at%204.25.10%20PM.png)
+
+### Cublic Spline
+![Newton's Method](https://github.com/trevor050/Interpolation-Algorithms/blob/main/screenshots/Screenshot%202023-09-02%20at%204.25.21%20PM.png)
+
+
 ## Supported Algorithms
 
 - **Lagrange**: This method uses the Lagrange form of the polynomial. It's simple but can oscillate wildly between points.
